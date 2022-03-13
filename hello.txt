@@ -1,5 +1,7 @@
 hello:
 	frind
-	2020
-	china great country!
+	2020	china great country!
 	yes!
+
+	apple
+	red @
